@@ -1,3 +1,0 @@
-/root/source/learn-lab-network/tun_tap/CMakeFiles/rebuild_cache.dir
-/root/source/learn-lab-network/tun_tap/CMakeFiles/edit_cache.dir
-/root/source/learn-lab-network/tun_tap/CMakeFiles/tun_tap.dir
