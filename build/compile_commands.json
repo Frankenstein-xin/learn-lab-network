@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/root/source/learn-lab-network/build",
+  "command": "/usr/bin/c++    -g   -o CMakeFiles/tun_tap.dir/main.cpp.o -c /root/source/learn-lab-network/tun_tap/main.cpp",
+  "file": "/root/source/learn-lab-network/tun_tap/main.cpp"
+}
+]
